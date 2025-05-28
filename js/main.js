@@ -207,7 +207,7 @@
       },
       {
         image: 'Office_Photo_2.jpg',
-        title: 'We have successfully delivered 100+ projects across industries, helping businessesstreamline operations and enhance digital presence locally and globally. We have done E-commerce websites, Gaming Apps, Management Software, Food Delivery apps many more!',
+        title: 'We have successfully delivered 100+ projects across industries, helping businesses streamline operations and enhance digital presence locally and globally. We have done E-commerce websites, Gaming Apps, Management Software, Food Delivery apps many more!',
         // subtitle: 'Vero temporibus maiores, architecto nobis, adipisci hic culpa.',
         // text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur ea numquam mollitia dignissimos minus.'
       },
